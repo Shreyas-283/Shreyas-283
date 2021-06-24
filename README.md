@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shreyas-283
 - 👀 I’m interested in Coding / Gaming
-- 🌱 I’m currently learning Programing Language
+- 🌱 I’m currently learning Different types of Programing Language
 - 📫 How to reach me shreyashirulkar17@gmail.com
 
 <!---
