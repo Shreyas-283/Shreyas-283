@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shreyas-283
-- 👀 I’m Front-end Developer
+- 👀 I’m Web Developer
 - 🌱 I like programming / Gaming
 - 📫 How to reach me shreyashirulkar17@gmail.com
 
